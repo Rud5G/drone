@@ -15,3 +15,4 @@ cli/cli
 client/client
 server/server
 packaging/root/usr/local
+.idea/

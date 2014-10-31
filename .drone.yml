@@ -19,5 +19,4 @@ services:
 notify:
   email:
     recipients:
-      - brad@drone.io
       - rud5gmobile@gmail.com
